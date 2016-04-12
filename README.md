@@ -14,3 +14,5 @@ The expansion includes:
 - font-awesome
 - working with SVG
 - animating SVG
+
+Slidedecks created with [Lea Verou's CSS-based SlideShow System](https://github.com/LeaVerou/csss) and [reveal.js](http://lab.hakim.se/reveal-js/#/).
